@@ -1,0 +1,72 @@
+C:\Users\user\Desktop\Windows Form Activities Fundamentals of Databaas Systems\BookShop\BookShop\bin\Debug\BookShop.exe.config
+C:\Users\user\Desktop\Windows Form Activities Fundamentals of Databaas Systems\BookShop\BookShop\bin\Debug\BookShop.exe
+C:\Users\user\Desktop\Windows Form Activities Fundamentals of Databaas Systems\BookShop\BookShop\bin\Debug\BookShop.pdb
+C:\Users\user\Desktop\Windows Form Activities Fundamentals of Databaas Systems\BookShop\BookShop\obj\Debug\BookShop.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Windows Form Activities Fundamentals of Databaas Systems\BookShop\BookShop\obj\Debug\BookShop.Properties.Resources.resources
+C:\Users\user\Desktop\Windows Form Activities Fundamentals of Databaas Systems\BookShop\BookShop\obj\Debug\BookShop.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Windows Form Activities Fundamentals of Databaas Systems\BookShop\BookShop\obj\Debug\BookShop.exe
+C:\Users\user\Desktop\Windows Form Activities Fundamentals of Databaas Systems\BookShop\BookShop\obj\Debug\BookShop.pdb
+C:\Users\user\Desktop\Windows Form Activities Fundamentals of Databaas Systems\BookShop\BookShop\obj\Debug\BookShop.Splash.resources
+C:\Users\user\Desktop\Windows Form Activities Fundamentals of Databaas Systems\BookShop\BookShop\obj\Debug\BookShop.Login.resources
+C:\Users\user\Desktop\Windows Form Activities Fundamentals of Databaas Systems\BookShop\BookShop\obj\Debug\BookShop.Books.resources
+C:\Users\user\Desktop\Windows Form Activities Fundamentals of Databaas Systems\BookShop\BookShop\obj\Debug\BookShop.Users.resources
+C:\Users\user\Desktop\Windows Form Activities Fundamentals of Databaas Systems\BookShop\BookShop\obj\Debug\BookShop.Homes.resources
+C:\Users\user\Desktop\Windows Form Activities Fundamentals of Databaas Systems\BookShop\BookShop\bin\Debug\mysql.data.dll
+C:\Users\user\Desktop\Windows Form Activities Fundamentals of Databaas Systems\BookShop\BookShop\bin\Debug\mysql.visualstudio.dll
+C:\Users\user\Desktop\Windows Form Activities Fundamentals of Databaas Systems\BookShop\BookShop\bin\Debug\MySql.Web.dll
+C:\Users\user\Desktop\Windows Form Activities Fundamentals of Databaas Systems\BookShop\BookShop\bin\Debug\MySql.Parser.dll
+C:\Users\user\Desktop\Windows Form Activities Fundamentals of Databaas Systems\BookShop\BookShop\bin\Debug\Antlr3.Runtime.dll
+C:\Users\user\Desktop\Books\BookShop(VB12wala kakuhag info sa database\BookShop\bin\Debug\BookShop.exe.config
+C:\Users\user\Desktop\Books\BookShop(VB12wala kakuhag info sa database\BookShop\obj\Debug\BookShop.exe
+C:\Users\user\Desktop\Books\BookShop(VB12wala kakuhag info sa database\BookShop\obj\Debug\BookShop.pdb
+C:\Users\user\Desktop\Books\BookShop(VB12wala kakuhag info sa database\BookShop\bin\Debug\BookShop.exe
+C:\Users\user\Desktop\Books\BookShop(VB12wala kakuhag info sa database\BookShop\bin\Debug\BookShop.pdb
+C:\Users\user\Desktop\Books\BookShop(VB12wala kakuhag info sa database\BookShop\bin\Debug\MySql.Web.dll
+C:\Users\user\Desktop\Books\BookShop(VB12wala kakuhag info sa database\BookShop\bin\Debug\MySql.Parser.dll
+C:\Users\user\Desktop\Books\BookShop(VB12wala kakuhag info sa database\BookShop\bin\Debug\Antlr3.Runtime.dll
+C:\Users\user\Desktop\Books\BookShop(VB12wala kakuhag info sa database\BookShop\obj\Debug\BookShop.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Books\BookShop(VB12wala kakuhag info sa database\BookShop\obj\Debug\BookShop.Books.resources
+C:\Users\user\Desktop\Books\BookShop(VB12wala kakuhag info sa database\BookShop\obj\Debug\BookShop.Login.resources
+C:\Users\user\Desktop\Books\BookShop(VB12wala kakuhag info sa database\BookShop\obj\Debug\BookShop.Splash.resources
+C:\Users\user\Desktop\Books\BookShop(VB12wala kakuhag info sa database\BookShop\obj\Debug\BookShop.Properties.Resources.resources
+C:\Users\user\Desktop\Books\BookShop(VB12wala kakuhag info sa database\BookShop\obj\Debug\BookShop.Users.resources
+C:\Users\user\Desktop\Books\BookShop(VB12wala kakuhag info sa database\BookShop\obj\Debug\BookShop.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Books\BookShop(VB12wala kakuhag info sa database\BookShop\obj\Debug\BookShop.Billing.resources
+C:\Users\user\Desktop\Books\BookShop(VB12wala kakuhag info sa database\BookShop\obj\Debug\BookShop.Dashboard.resources
+C:\Users\user\Desktop\Books\BookShop(VB12wala kakuhag info sa database\BookShop\obj\Debug\BookShop.AdminLogin.resources
+C:\Users\user\Desktop\Books\BookShopMotiting us conncet sa xampp\BookShop\bin\Debug\BookShop.exe.config
+C:\Users\user\Desktop\Books\BookShopMotiting us conncet sa xampp\BookShop\obj\Debug\BookShop.exe
+C:\Users\user\Desktop\Books\BookShopMotiting us conncet sa xampp\BookShop\obj\Debug\BookShop.pdb
+C:\Users\user\Desktop\Books\BookShopMotiting us conncet sa xampp\BookShop\bin\Debug\BookShop.exe
+C:\Users\user\Desktop\Books\BookShopMotiting us conncet sa xampp\BookShop\bin\Debug\BookShop.pdb
+C:\Users\user\Desktop\Books\BookShopMotiting us conncet sa xampp\BookShop\bin\Debug\MySql.Web.dll
+C:\Users\user\Desktop\Books\BookShopMotiting us conncet sa xampp\BookShop\bin\Debug\MySql.Parser.dll
+C:\Users\user\Desktop\Books\BookShopMotiting us conncet sa xampp\BookShop\bin\Debug\Antlr3.Runtime.dll
+C:\Users\user\Desktop\Books\BookShopMotiting us conncet sa xampp\BookShop\obj\Debug\BookShop.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Books\BookShopMotiting us conncet sa xampp\BookShop\obj\Debug\BookShop.AdminLogin.resources
+C:\Users\user\Desktop\Books\BookShopMotiting us conncet sa xampp\BookShop\obj\Debug\BookShop.Billing.resources
+C:\Users\user\Desktop\Books\BookShopMotiting us conncet sa xampp\BookShop\obj\Debug\BookShop.Books.resources
+C:\Users\user\Desktop\Books\BookShopMotiting us conncet sa xampp\BookShop\obj\Debug\BookShop.Dashboard.resources
+C:\Users\user\Desktop\Books\BookShopMotiting us conncet sa xampp\BookShop\obj\Debug\BookShop.Login.resources
+C:\Users\user\Desktop\Books\BookShopMotiting us conncet sa xampp\BookShop\obj\Debug\BookShop.Splash.resources
+C:\Users\user\Desktop\Books\BookShopMotiting us conncet sa xampp\BookShop\obj\Debug\BookShop.Properties.Resources.resources
+C:\Users\user\Desktop\Books\BookShopMotiting us conncet sa xampp\BookShop\obj\Debug\BookShop.Users.resources
+C:\Users\user\Desktop\Books\BookShopMotiting us conncet sa xampp\BookShop\obj\Debug\BookShop.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Ange\Childrens Book Shop\BookShop\bin\Debug\BookShop.exe.config
+C:\Users\user\Desktop\Ange\Childrens Book Shop\BookShop\obj\Debug\BookShop.exe
+C:\Users\user\Desktop\Ange\Childrens Book Shop\BookShop\obj\Debug\BookShop.pdb
+C:\Users\user\Desktop\Ange\Childrens Book Shop\BookShop\bin\Debug\BookShop.exe
+C:\Users\user\Desktop\Ange\Childrens Book Shop\BookShop\bin\Debug\BookShop.pdb
+C:\Users\user\Desktop\Ange\Childrens Book Shop\BookShop\bin\Debug\MySql.Web.dll
+C:\Users\user\Desktop\Ange\Childrens Book Shop\BookShop\bin\Debug\MySql.Parser.dll
+C:\Users\user\Desktop\Ange\Childrens Book Shop\BookShop\bin\Debug\Antlr3.Runtime.dll
+C:\Users\user\Desktop\Ange\Childrens Book Shop\BookShop\obj\Debug\BookShop.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Ange\Childrens Book Shop\BookShop\obj\Debug\BookShop.AdminLogin.resources
+C:\Users\user\Desktop\Ange\Childrens Book Shop\BookShop\obj\Debug\BookShop.Billing.resources
+C:\Users\user\Desktop\Ange\Childrens Book Shop\BookShop\obj\Debug\BookShop.Books.resources
+C:\Users\user\Desktop\Ange\Childrens Book Shop\BookShop\obj\Debug\BookShop.Login.resources
+C:\Users\user\Desktop\Ange\Childrens Book Shop\BookShop\obj\Debug\BookShop.Splash.resources
+C:\Users\user\Desktop\Ange\Childrens Book Shop\BookShop\obj\Debug\BookShop.Properties.Resources.resources
+C:\Users\user\Desktop\Ange\Childrens Book Shop\BookShop\obj\Debug\BookShop.Users.resources
+C:\Users\user\Desktop\Ange\Childrens Book Shop\BookShop\obj\Debug\BookShop.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Ange\Childrens Book Shop\BookShop\obj\Debug\BookShop.Home.resources

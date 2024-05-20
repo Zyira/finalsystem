@@ -1,0 +1,3 @@
+C:\Users\user\Desktop\Ange\Childrens Book Shop\BookShop\bin\Debug\BookShop.exe.config
+C:\Users\user\Desktop\Ange\Childrens Book Shop\BookShop\obj\Debug\BookShop.exe
+C:\Users\user\Desktop\Ange\Childrens Book Shop\BookShop\obj\Debug\BookShop.pdb

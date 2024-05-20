@@ -1,0 +1,94 @@
+C:\Users\user\Desktop\Ange\Childrens Book Shop\BookShop\bin\Debug\BookShop.exe.config
+C:\Users\user\Desktop\Ange\Childrens Book Shop\BookShop\bin\Debug\BookShop.exe
+C:\Users\user\Desktop\Ange\Childrens Book Shop\BookShop\bin\Debug\BookShop.pdb
+C:\Users\user\Desktop\Ange\Childrens Book Shop\BookShop\bin\Debug\MySql.Web.dll
+C:\Users\user\Desktop\Ange\Childrens Book Shop\BookShop\bin\Debug\MySql.Parser.dll
+C:\Users\user\Desktop\Ange\Childrens Book Shop\BookShop\bin\Debug\Antlr3.Runtime.dll
+C:\Users\user\Desktop\Ange\Childrens Book Shop\BookShop\obj\Debug\ChildrensBookShop.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Ange\Childrens Book Shop\BookShop\obj\Debug\BookShop.AdminLogin.resources
+C:\Users\user\Desktop\Ange\Childrens Book Shop\BookShop\obj\Debug\BookShop.Billing.resources
+C:\Users\user\Desktop\Ange\Childrens Book Shop\BookShop\obj\Debug\BookShop.Books.resources
+C:\Users\user\Desktop\Ange\Childrens Book Shop\BookShop\obj\Debug\BookShop.Home.resources
+C:\Users\user\Desktop\Ange\Childrens Book Shop\BookShop\obj\Debug\BookShop.Login.resources
+C:\Users\user\Desktop\Ange\Childrens Book Shop\BookShop\obj\Debug\BookShop.Splash.resources
+C:\Users\user\Desktop\Ange\Childrens Book Shop\BookShop\obj\Debug\BookShop.Properties.Resources.resources
+C:\Users\user\Desktop\Ange\Childrens Book Shop\BookShop\obj\Debug\BookShop.Users.resources
+C:\Users\user\Desktop\Ange\Childrens Book Shop\BookShop\obj\Debug\ChildrensBookShop.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Ange\Childrens Book Shop\BookShop\obj\Debug\BookShop.exe
+C:\Users\user\Desktop\Ange\Childrens Book Shop\BookShop\obj\Debug\BookShop.pdb
+C:\Users\user\Desktop\Windows Form Activities Fundamentals of Databaas Systems\Ange\Childrens Book Shop\BookShop\bin\Debug\BookShop.exe.config
+C:\Users\user\Desktop\Windows Form Activities Fundamentals of Databaas Systems\Ange\Childrens Book Shop\BookShop\obj\Debug\BookShop.exe
+C:\Users\user\Desktop\Windows Form Activities Fundamentals of Databaas Systems\Ange\Childrens Book Shop\BookShop\obj\Debug\BookShop.pdb
+C:\Users\user\Desktop\Windows Form Activities Fundamentals of Databaas Systems\Children's Book Shop System Project 2nd Year\Childrens Book Shop\BookShop\bin\Debug\BookShop.exe.config
+C:\Users\user\Desktop\Windows Form Activities Fundamentals of Databaas Systems\Children's Book Shop System Project 2nd Year\Childrens Book Shop\BookShop\obj\Debug\BookShop.exe
+C:\Users\user\Desktop\Windows Form Activities Fundamentals of Databaas Systems\Children's Book Shop System Project 2nd Year\Childrens Book Shop\BookShop\obj\Debug\BookShop.pdb
+C:\Users\user\Desktop\Windows Form Activities Fundamentals of Databaas Systems\Children's Book Shop System Project 2nd Year\Childrens Book Shop\BookShop\bin\Debug\BookShop.exe
+C:\Users\user\Desktop\Windows Form Activities Fundamentals of Databaas Systems\Children's Book Shop System Project 2nd Year\Childrens Book Shop\BookShop\bin\Debug\BookShop.pdb
+C:\Users\user\Desktop\Windows Form Activities Fundamentals of Databaas Systems\Children's Book Shop System Project 2nd Year\Childrens Book Shop\BookShop\bin\Debug\MySql.Web.dll
+C:\Users\user\Desktop\Windows Form Activities Fundamentals of Databaas Systems\Children's Book Shop System Project 2nd Year\Childrens Book Shop\BookShop\bin\Debug\MySql.Parser.dll
+C:\Users\user\Desktop\Windows Form Activities Fundamentals of Databaas Systems\Children's Book Shop System Project 2nd Year\Childrens Book Shop\BookShop\bin\Debug\Antlr3.Runtime.dll
+C:\Users\user\Desktop\Windows Form Activities Fundamentals of Databaas Systems\Children's Book Shop System Project 2nd Year\Childrens Book Shop\BookShop\obj\Debug\ChildrensBookShop.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Windows Form Activities Fundamentals of Databaas Systems\Children's Book Shop System Project 2nd Year\Childrens Book Shop\BookShop\obj\Debug\BookShop.AdminLogin.resources
+C:\Users\user\Desktop\Windows Form Activities Fundamentals of Databaas Systems\Children's Book Shop System Project 2nd Year\Childrens Book Shop\BookShop\obj\Debug\BookShop.Billing.resources
+C:\Users\user\Desktop\Windows Form Activities Fundamentals of Databaas Systems\Children's Book Shop System Project 2nd Year\Childrens Book Shop\BookShop\obj\Debug\BookShop.Books.resources
+C:\Users\user\Desktop\Windows Form Activities Fundamentals of Databaas Systems\Children's Book Shop System Project 2nd Year\Childrens Book Shop\BookShop\obj\Debug\BookShop.Home.resources
+C:\Users\user\Desktop\Windows Form Activities Fundamentals of Databaas Systems\Children's Book Shop System Project 2nd Year\Childrens Book Shop\BookShop\obj\Debug\BookShop.Login.resources
+C:\Users\user\Desktop\Windows Form Activities Fundamentals of Databaas Systems\Children's Book Shop System Project 2nd Year\Childrens Book Shop\BookShop\obj\Debug\BookShop.Splash.resources
+C:\Users\user\Desktop\Windows Form Activities Fundamentals of Databaas Systems\Children's Book Shop System Project 2nd Year\Childrens Book Shop\BookShop\obj\Debug\BookShop.Properties.Resources.resources
+C:\Users\user\Desktop\Windows Form Activities Fundamentals of Databaas Systems\Children's Book Shop System Project 2nd Year\Childrens Book Shop\BookShop\obj\Debug\BookShop.Users.resources
+C:\Users\user\Desktop\Windows Form Activities Fundamentals of Databaas Systems\Children's Book Shop System Project 2nd Year\Childrens Book Shop\BookShop\obj\Debug\ChildrensBookShop.csproj.GenerateResource.Cache
+C:\xampp\htdocs\Library System\Library Management Windows Form\Childrens Book Shop\BookShop\bin\Debug\BookShop.exe.config
+C:\xampp\htdocs\Library System\Library Management Windows Form\Childrens Book Shop\BookShop\bin\Debug\BookShop.exe
+C:\xampp\htdocs\Library System\Library Management Windows Form\Childrens Book Shop\BookShop\bin\Debug\BookShop.pdb
+C:\xampp\htdocs\Library System\Library Management Windows Form\Childrens Book Shop\BookShop\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\xampp\htdocs\Library System\Library Management Windows Form\Childrens Book Shop\BookShop\bin\Debug\EnvDTE.dll
+C:\xampp\htdocs\Library System\Library Management Windows Form\Childrens Book Shop\BookShop\bin\Debug\EnvDTE80.dll
+C:\xampp\htdocs\Library System\Library Management Windows Form\Childrens Book Shop\BookShop\bin\Debug\MySql.Web.dll
+C:\xampp\htdocs\Library System\Library Management Windows Form\Childrens Book Shop\BookShop\bin\Debug\Microsoft.VisualStudio.TextTemplating.Interfaces.10.0.dll
+C:\xampp\htdocs\Library System\Library Management Windows Form\Childrens Book Shop\BookShop\bin\Debug\MySql.Parser.dll
+C:\xampp\htdocs\Library System\Library Management Windows Form\Childrens Book Shop\BookShop\bin\Debug\Antlr3.Runtime.dll
+C:\xampp\htdocs\Library System\Library Management Windows Form\Childrens Book Shop\BookShop\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\xampp\htdocs\Library System\Library Management Windows Form\Childrens Book Shop\BookShop\bin\Debug\stdole.dll
+C:\xampp\htdocs\Library System\Library Management Windows Form\Childrens Book Shop\BookShop\obj\Debug\ChildrensBookShop.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Library System\Library Management Windows Form\Childrens Book Shop\BookShop\obj\Debug\ChildrensBookShop.csproj.SuggestedBindingRedirects.cache
+C:\xampp\htdocs\Library System\Library Management Windows Form\Childrens Book Shop\BookShop\obj\Debug\BookShop.exe.config
+C:\xampp\htdocs\Library System\Library Management Windows Form\Childrens Book Shop\BookShop\obj\Debug\BookShop.Admin.resources
+C:\xampp\htdocs\Library System\Library Management Windows Form\Childrens Book Shop\BookShop\obj\Debug\BookShop.Books.resources
+C:\xampp\htdocs\Library System\Library Management Windows Form\Childrens Book Shop\BookShop\obj\Debug\BookShop.Dashboard.resources
+C:\xampp\htdocs\Library System\Library Management Windows Form\Childrens Book Shop\BookShop\obj\Debug\BookShop.Login.resources
+C:\xampp\htdocs\Library System\Library Management Windows Form\Childrens Book Shop\BookShop\obj\Debug\BookShop.Splash.resources
+C:\xampp\htdocs\Library System\Library Management Windows Form\Childrens Book Shop\BookShop\obj\Debug\BookShop.Properties.Resources.resources
+C:\xampp\htdocs\Library System\Library Management Windows Form\Childrens Book Shop\BookShop\obj\Debug\BookShop.Students.resources
+C:\xampp\htdocs\Library System\Library Management Windows Form\Childrens Book Shop\BookShop\obj\Debug\ChildrensBookShop.csproj.GenerateResource.cache
+C:\xampp\htdocs\Library System\Library Management Windows Form\Childrens Book Shop\BookShop\obj\Debug\ChildrensBookShop.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Library System\Library Management Windows Form\Childrens Book Shop\BookShop\obj\Debug\ChildrensBookShop.csproj.CopyComplete
+C:\xampp\htdocs\Library System\Library Management Windows Form\Childrens Book Shop\BookShop\obj\Debug\BookShop.exe
+C:\xampp\htdocs\Library System\Library Management Windows Form\Childrens Book Shop\BookShop\obj\Debug\BookShop.pdb
+C:\xampp\htdocs\ZyiraMae\Integrative_Prog\Final_Project\c#\Cyber Society Smart\Childrens Book Shop\BookShop\obj\Debug\ChildrensBookShop.csproj.AssemblyReference.cache
+C:\xampp\htdocs\ZyiraMae\Integrative_Prog\Final_Project\c#\Cyber Society Smart\Childrens Book Shop\BookShop\obj\Debug\ChildrensBookShop.csproj.SuggestedBindingRedirects.cache
+C:\xampp\htdocs\ZyiraMae\Integrative_Prog\Final_Project\c#\Cyber Society Smart\Childrens Book Shop\BookShop\obj\Debug\BookShop.exe.config
+C:\xampp\htdocs\ZyiraMae\Integrative_Prog\Final_Project\c#\Cyber Society Smart\Childrens Book Shop\BookShop\obj\Debug\BookShop.Login.resources
+C:\xampp\htdocs\ZyiraMae\Integrative_Prog\Final_Project\c#\Cyber Society Smart\Childrens Book Shop\BookShop\obj\Debug\BookShop.Splash.resources
+C:\xampp\htdocs\ZyiraMae\Integrative_Prog\Final_Project\c#\Cyber Society Smart\Childrens Book Shop\BookShop\obj\Debug\BookShop.Properties.Resources.resources
+C:\xampp\htdocs\ZyiraMae\Integrative_Prog\Final_Project\c#\Cyber Society Smart\Childrens Book Shop\BookShop\obj\Debug\BookShop.Students.resources
+C:\xampp\htdocs\ZyiraMae\Integrative_Prog\Final_Project\c#\Cyber Society Smart\Childrens Book Shop\BookShop\obj\Debug\ChildrensBookShop.csproj.GenerateResource.cache
+C:\xampp\htdocs\ZyiraMae\Integrative_Prog\Final_Project\c#\Cyber Society Smart\Childrens Book Shop\BookShop\obj\Debug\ChildrensBookShop.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\ZyiraMae\Integrative_Prog\Final_Project\c#\Cyber Society Smart\Childrens Book Shop\BookShop\obj\Debug\BookShop.exe
+C:\xampp\htdocs\ZyiraMae\Integrative_Prog\Final_Project\c#\Cyber Society Smart\Childrens Book Shop\BookShop\obj\Debug\BookShop.pdb
+C:\xampp\htdocs\ZyiraMae\Integrative_Prog\Final_Project\c#\Cyber Society Smart\Childrens Book Shop\BookShop\bin\Debug\BookShop.exe.config
+C:\xampp\htdocs\ZyiraMae\Integrative_Prog\Final_Project\c#\Cyber Society Smart\Childrens Book Shop\BookShop\bin\Debug\BookShop.exe
+C:\xampp\htdocs\ZyiraMae\Integrative_Prog\Final_Project\c#\Cyber Society Smart\Childrens Book Shop\BookShop\bin\Debug\BookShop.pdb
+C:\xampp\htdocs\ZyiraMae\Integrative_Prog\Final_Project\c#\Cyber Society Smart\Childrens Book Shop\BookShop\bin\Debug\Newtonsoft.Json.dll
+C:\xampp\htdocs\ZyiraMae\Integrative_Prog\Final_Project\c#\Cyber Society Smart\Childrens Book Shop\BookShop\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\xampp\htdocs\ZyiraMae\Integrative_Prog\Final_Project\c#\Cyber Society Smart\Childrens Book Shop\BookShop\bin\Debug\EnvDTE.dll
+C:\xampp\htdocs\ZyiraMae\Integrative_Prog\Final_Project\c#\Cyber Society Smart\Childrens Book Shop\BookShop\bin\Debug\EnvDTE80.dll
+C:\xampp\htdocs\ZyiraMae\Integrative_Prog\Final_Project\c#\Cyber Society Smart\Childrens Book Shop\BookShop\bin\Debug\VSLangProj.dll
+C:\xampp\htdocs\ZyiraMae\Integrative_Prog\Final_Project\c#\Cyber Society Smart\Childrens Book Shop\BookShop\bin\Debug\MySql.Web.dll
+C:\xampp\htdocs\ZyiraMae\Integrative_Prog\Final_Project\c#\Cyber Society Smart\Childrens Book Shop\BookShop\bin\Debug\Microsoft.VisualStudio.TextTemplating.Interfaces.10.0.dll
+C:\xampp\htdocs\ZyiraMae\Integrative_Prog\Final_Project\c#\Cyber Society Smart\Childrens Book Shop\BookShop\bin\Debug\MySql.Parser.dll
+C:\xampp\htdocs\ZyiraMae\Integrative_Prog\Final_Project\c#\Cyber Society Smart\Childrens Book Shop\BookShop\bin\Debug\Antlr3.Runtime.dll
+C:\xampp\htdocs\ZyiraMae\Integrative_Prog\Final_Project\c#\Cyber Society Smart\Childrens Book Shop\BookShop\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\xampp\htdocs\ZyiraMae\Integrative_Prog\Final_Project\c#\Cyber Society Smart\Childrens Book Shop\BookShop\bin\Debug\stdole.dll
+C:\xampp\htdocs\ZyiraMae\Integrative_Prog\Final_Project\c#\Cyber Society Smart\Childrens Book Shop\BookShop\bin\Debug\Newtonsoft.Json.xml
+C:\xampp\htdocs\ZyiraMae\Integrative_Prog\Final_Project\c#\Cyber Society Smart\Childrens Book Shop\BookShop\bin\Debug\VSLangProj.xml
+C:\xampp\htdocs\ZyiraMae\Integrative_Prog\Final_Project\c#\Cyber Society Smart\Childrens Book Shop\BookShop\obj\Debug\ChildrensBookShop.csproj.CopyComplete
